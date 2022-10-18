@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6rcya715n1st9yp3?svg=true)](https://ci.appveyor.com/project/Mesmerit/net06)
